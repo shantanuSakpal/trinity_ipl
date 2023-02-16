@@ -19,6 +19,7 @@ function App() {
         <div className='min-h-screen'>
           <Routes>
 
+            <Route path='/' element={<Landing />} />
             <Route path='/home' element={<ProtectedRoute page={<Home />} />} />
             <Route path="/login" element={<Login />}></Route>
             <Route path="/about" element={<About />}></Route>
