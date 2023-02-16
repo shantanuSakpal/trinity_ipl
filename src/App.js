@@ -3,6 +3,9 @@ import { Home } from './pages/Home';
 import { ErrorPage } from './pages/ErrorPage';
 import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
+import Login from './pages/Login';
+import Landing from './pages/LandingPage';
+import ProtectedRoute from './components/ProtectedRoute';
 import { About } from './pages/About';
 import { Services } from './pages/Services';
 import { Pricing } from './pages/Pricing';
@@ -15,7 +18,9 @@ function App() {
         <Navbar />
         <div className='min-h-screen'>
           <Routes>
-            <Route path="/home" element={<Home />}></Route>
+
+            <Route path='/home' element={<ProtectedRoute page={<Home />} />} />
+            <Route path="/login" element={<Login />}></Route>
             <Route path="/about" element={<About />}></Route>
             <Route path="/services" element={<Services />}></Route>
             <Route path="/pricing" element={<Pricing />}></Route>
