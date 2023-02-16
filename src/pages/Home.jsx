@@ -1,7 +1,13 @@
-import React from 'react'
+import UserAuth from "../context/AuthContext"
 
 export const Home = () => {
+    const {logout} = UserAuth();
+
     return (
-        <div>Home</div>
+        
+        <>
+        <button className="btn btn-danger" onClick={logout}>Logout</button>
+        </>
+    
     )
 }
