@@ -4,10 +4,9 @@ const bodyParser = require("body-parser") ;
 
 const app = express() ;
 
-var jsonParser = bodyParser.json()
+var jsonParser = bodyParser.json() ;
 
 var urlencodedParser = bodyParser.urlencoded({ extended: false }) ;
-
 
 app.get('/', (req,res) => {
     res.send("Hello World.") ;
