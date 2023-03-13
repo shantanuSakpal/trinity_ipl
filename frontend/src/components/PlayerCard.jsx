@@ -8,7 +8,7 @@ export const PlayerCard = ({ player }) => {
 
 
         <section class="">
-            <div class="w-full lg:w-4/12 px-4 mx-auto">
+            <div class="w-full lg:w-6/12 px-4 mx-auto">
                 <div class="relative flex flex-col min-w-0 break-words bg-slate-100 w-full mb-6 shadow-xl rounded-lg ">
                     <div>
                         <div className='text-center p-3'>
