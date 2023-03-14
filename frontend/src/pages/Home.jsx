@@ -1,23 +1,15 @@
 import React, { useEffect, useState } from 'react'
-import axios from "axios"
 
 import { PlayerCard } from "../components/PlayerCard"
-const serverUrl = "http://localhost:4000"
+import { players } from '../players'
+
 export const Home = () => {
 
-    const [players, setPlayers] = useState([])
+
     const [currentPlayerId, setCurrentPlayerId] = useState(0)
     const [player, setPlayer] = useState({})
 
-    const loadPlayers = async (e) => {
-
-        const res = await axios.get(`${serverUrl}/players`)
-        setPlayers(res.data)
-    }
-    useEffect(() => {
-
-        loadPlayers()
-    }, [])
+    console.log(players.length)
 
     if (players.length != 0) {
 
@@ -51,15 +43,17 @@ export const Home = () => {
 
 
     return (
-        <div className='flex flex-col w-full justify-center'>
-            {
 
-                <PlayerCard key={player._id} player={player} />
+        <>
 
-            }
-            <button onClick={getNextPlayer} className='p-3 rounded-lg m-2 bg-slate-300  mx-auto text-xl font-bold'>Next Player</button>
+            <PlayerCard key={player._id} player={player} />
             <button onClick={getPrevPlayer} className='p-3 rounded-lg m-2 bg-slate-300  mx-auto text-xl font-bold'>Prev Player</button>
+            <button onClick={getNextPlayer} className='p-3 rounded-lg m-2 bg-slate-300  mx-auto text-xl font-bold'>Next Player</button>
+        </>
 
-        </div>
+
+
+
+
     )
 }

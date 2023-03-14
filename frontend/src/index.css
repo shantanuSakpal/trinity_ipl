@@ -15,3 +15,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card{
+  background-image: url("./images/background.jpg");
+  background-position: center;
+  background-size: cover;
+  aspect-ratio: 16/9;
+  height: 100vh;
+  width: 100vw;
+}

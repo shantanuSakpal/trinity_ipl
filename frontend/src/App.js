@@ -6,16 +6,14 @@ import { Home } from './pages/Home';
 
 function App() {
   return (
-    <div className="p-2">
+    <div >
       <Router>
-        <Navbar />
         <div className='min-h-screen'>
           <Routes>
 
             <Route path='/' element={<Home />} />
           </Routes>
         </div>
-        <Footer />
       </Router>
 
     </div>
