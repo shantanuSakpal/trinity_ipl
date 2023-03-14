@@ -9,14 +9,14 @@ export const Home = () => {
     const [currentPlayerId, setCurrentPlayerId] = useState(0)
     const [player, setPlayer] = useState({})
 
-    const getPlayers = async (e) => {
+    const loadPlayers = async (e) => {
 
         const res = await axios.get(`${serverUrl}/players`)
         setPlayers(res.data)
     }
     useEffect(() => {
 
-        getPlayers()
+        loadPlayers()
     }, [])
 
     if (players.length != 0) {
@@ -29,11 +29,21 @@ export const Home = () => {
 
     }
 
-    function getOnePlayer() {
-        setPlayer(players[currentPlayerId])
+    function getNextPlayer() {
         setCurrentPlayerId(currentPlayerId + 1)
+        setPlayer(players[currentPlayerId])
+        console.log(currentPlayerId)
         if (currentPlayerId === players.length - 1) {
             setCurrentPlayerId(0)
+        }
+    }
+
+    function getPrevPlayer() {
+        setCurrentPlayerId(currentPlayerId - 1)
+        setPlayer(players[currentPlayerId])
+        console.log(currentPlayerId)
+        if (currentPlayerId === 0) {
+            setCurrentPlayerId(players.length - 1)
         }
     }
 
@@ -47,7 +57,8 @@ export const Home = () => {
                 <PlayerCard key={player._id} player={player} />
 
             }
-            <button onClick={getOnePlayer} className='p-3 rounded-lg m-2 bg-slate-300  mx-auto text-xl font-bold'>Next Player</button>
+            <button onClick={getNextPlayer} className='p-3 rounded-lg m-2 bg-slate-300  mx-auto text-xl font-bold'>Next Player</button>
+            <button onClick={getPrevPlayer} className='p-3 rounded-lg m-2 bg-slate-300  mx-auto text-xl font-bold'>Prev Player</button>
 
         </div>
     )
