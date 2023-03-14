@@ -1,6 +1,6 @@
 export const players = [{
     "_id": {
-        "$oid": "641022424200cb82796395a7"
+        "$oid": "6410479f3902e923fb0f1fc4"
     },
     "PLAYER_NAME": "VIRAT KOHLI",
     "NATIONALITY": "INDIAN",
@@ -12,10 +12,11 @@ export const players = [{
     "BOL_ECO": "8.8",
     "BOL_AVG": "92",
     "TOTAL_WICKET": "4",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/virat-kohli-967.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395a8"
+        "$oid": "6410479f3902e923fb0f1fc5"
     },
     "PLAYER_NAME": "RAVIDRA JADEJA",
     "NATIONALITY": "INDIAN",
@@ -27,10 +28,11 @@ export const players = [{
     "BOL_ECO": "7.61",
     "BOL_AVG": "30.79",
     "TOTAL_WICKET": "132",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/ravindra-jadeja-855.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395a9"
+        "$oid": "6410479f3902e923fb0f1fc6"
     },
     "PLAYER_NAME": "RAVICHANDRAN ASHWIN",
     "NATIONALITY": "INDIAN",
@@ -42,10 +44,11 @@ export const players = [{
     "BOL_ECO": "6.98",
     "BOL_AVG": "28.88",
     "TOTAL_WICKET": "157",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/ravichandran-ashwin-1109.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395aa"
+        "$oid": "6410479f3902e923fb0f1fc7"
     },
     "PLAYER_NAME": "RASHID KHAN",
     "NATIONALITY": "OVERSEAS",
@@ -57,10 +60,11 @@ export const players = [{
     "BOL_ECO": "6.38",
     "BOL_AVG": "20.83",
     "TOTAL_WICKET": "112",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/rashid-khan-arman_636964742189566855.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395ab"
+        "$oid": "6410479f3902e923fb0f1fc8"
     },
     "PLAYER_NAME": "TRENT BOULT",
     "NATIONALITY": "OVERSEAS",
@@ -72,10 +76,11 @@ export const players = [{
     "BOL_ECO": "8.3",
     "BOL_AVG": "26.9",
     "TOTAL_WICKET": "92",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/trent-boult-1061.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395ac"
+        "$oid": "6410479f3902e923fb0f1fc9"
     },
     "PLAYER_NAME": "HARDIK PANDYA",
     "NATIONALITY": "INDIAN",
@@ -87,10 +92,11 @@ export const players = [{
     "BOL_ECO": "8.75",
     "BOL_AVG": "30.7",
     "TOTAL_WICKET": "50",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/hardik-himanshu-pandya_636947654802532155.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395ad"
+        "$oid": "6410479f3902e923fb0f1fca"
     },
     "PLAYER_NAME": "DWAYNE BRAVO",
     "NATIONALITY": "OVERSEAS",
@@ -102,10 +108,11 @@ export const players = [{
     "BOL_ECO": "8.38",
     "BOL_AVG": "23.8",
     "TOTAL_WICKET": "161",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/dwayne-bravo-626.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395ae"
+        "$oid": "6410479f3902e923fb0f1fcb"
     },
     "PLAYER_NAME": "SHIKHAR DHAWAN",
     "NATIONALITY": "INDIAN",
@@ -117,10 +124,11 @@ export const players = [{
     "BOL_ECO": "8.25",
     "BOL_AVG": "16.5",
     "TOTAL_WICKET": "4",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/shikhar-dhawan-737.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395af"
+        "$oid": "6410479f3902e923fb0f1fcc"
     },
     "PLAYER_NAME": "JASPRIT BUMRAH",
     "NATIONALITY": "INDIAN",
@@ -132,10 +140,11 @@ export const players = [{
     "BOL_ECO": "7.4",
     "BOL_AVG": "23.31",
     "TOTAL_WICKET": "145",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/jasprit-jasbirsingh-bumrah_636964748374078654.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395b0"
+        "$oid": "6410479f3902e923fb0f1fcd"
     },
     "PLAYER_NAME": "BHUVESHWAR KUMAR",
     "NATIONALITY": "INDIAN",
@@ -147,10 +156,11 @@ export const players = [{
     "BOL_ECO": "7.3",
     "BOL_AVG": "25.79",
     "TOTAL_WICKET": "154",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/bhuvneshwar-kumar-1250.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395b1"
+        "$oid": "6410479f3902e923fb0f1fce"
     },
     "PLAYER_NAME": "MOHAMMED SHAMI",
     "NATIONALITY": "INDIAN",
@@ -162,10 +172,11 @@ export const players = [{
     "BOL_ECO": "8.52",
     "BOL_AVG": "29.19",
     "TOTAL_WICKET": "99",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/shami-ahmed-1580.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395b2"
+        "$oid": "6410479f3902e923fb0f1fcf"
     },
     "PLAYER_NAME": "DAVID WARNER",
     "NATIONALITY": "OVERSEAS",
@@ -177,10 +188,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/david-warner-1285.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395b3"
+        "$oid": "6410479f3902e923fb0f1fd0"
     },
     "PLAYER_NAME": "YUZVENDRA CHAHAL",
     "NATIONALITY": "INDIAN",
@@ -192,10 +204,11 @@ export const players = [{
     "BOL_ECO": "7.61",
     "BOL_AVG": "17.2",
     "TOTAL_WICKET": "166",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/yuzvendra-chahal-1394.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395b4"
+        "$oid": "6410479f3902e923fb0f1fd1"
     },
     "PLAYER_NAME": "ROHIT SHARMA",
     "NATIONALITY": "INDIAN",
@@ -207,10 +220,11 @@ export const players = [{
     "BOL_ECO": "8.2",
     "BOL_AVG": "30.2",
     "TOTAL_WICKET": "15",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/rohit-sharma-857.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395b5"
+        "$oid": "6410479f3902e923fb0f1fd2"
     },
     "PLAYER_NAME": "MS DHONI",
     "NATIONALITY": "INDIAN",
@@ -222,10 +236,11 @@ export const players = [{
     "BOL_ECO": "5.97",
     "BOL_AVG": "14.07",
     "TOTAL_WICKET": "14",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/ms-dhoni-700.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395b6"
+        "$oid": "6410479f3902e923fb0f1fd3"
     },
     "PLAYER_NAME": "FAF DU PLESSIS",
     "NATIONALITY": "OVERSEAS",
@@ -237,10 +252,11 @@ export const players = [{
     "BOL_ECO": "16",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/faf-du-plessis-1579.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395b7"
+        "$oid": "6410479f3902e923fb0f1fd4"
     },
     "PLAYER_NAME": "SUNIL NARINE",
     "NATIONALITY": "OVERSEAS",
@@ -252,10 +268,11 @@ export const players = [{
     "BOL_ECO": "6.63",
     "BOL_AVG": "25.13",
     "TOTAL_WICKET": "152",
-    "RATING": "5"
+    "RATING": "5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/sunil-narine-1456.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395b8"
+        "$oid": "6410479f3902e923fb0f1fd5"
     },
     "PLAYER_NAME": "MAYANK AGARWAL",
     "NATIONALITY": "INDIAN",
@@ -267,10 +284,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171091/mayank-agarwal.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395b9"
+        "$oid": "6410479f3902e923fb0f1fd6"
     },
     "PLAYER_NAME": "SHREYAS IYER",
     "NATIONALITY": "INDIAN",
@@ -282,10 +300,11 @@ export const players = [{
     "BOL_ECO": "7",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4.5"
+    "RATING": "4.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171024/shreyas-iyer.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395ba"
+        "$oid": "6410479f3902e923fb0f1fd7"
     },
     "PLAYER_NAME": "ABHINAV MANOHOR",
     "NATIONALITY": "INDIAN",
@@ -297,10 +316,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.mykhel.com/thumb/247x100x233/cricket/players/5/15035.1671617496.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395bb"
+        "$oid": "6410479f3902e923fb0f1fd8"
     },
     "PLAYER_NAME": "RAHUL BUDDHI",
     "NATIONALITY": "INDIAN",
@@ -312,10 +332,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/314700/314798.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395bc"
+        "$oid": "6410479f3902e923fb0f1fd9"
     },
     "PLAYER_NAME": "EVIN LEWIS",
     "NATIONALITY": "OVERSEAS",
@@ -327,10 +348,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/evin-lewis_636951769618298868.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395bd"
+        "$oid": "6410479f3902e923fb0f1fda"
     },
     "PLAYER_NAME": "SUBHRANSHU SENAPATI",
     "NATIONALITY": "INDIAN",
@@ -342,10 +364,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.mykhel.com/thumb/247x100x233/cricket/players/7/13827.1671620210.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395be"
+        "$oid": "6410479f3902e923fb0f1fdb"
     },
     "PLAYER_NAME": "DAVID MILLER",
     "NATIONALITY": "OVERSEAS",
@@ -357,10 +380,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/david-miller-1274.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395bf"
+        "$oid": "6410479f3902e923fb0f1fdc"
     },
     "PLAYER_NAME": "MANISH PANDEY",
     "NATIONALITY": "INDIAN",
@@ -372,10 +396,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/manish-krishnanand-pandey_637005705151045232.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395c0"
+        "$oid": "6410479f3902e923fb0f1fdd"
     },
     "PLAYER_NAME": "SHIMRON HETMYER",
     "NATIONALITY": "OVERSEAS",
@@ -387,10 +412,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/shimron-odilon-hetmyer_636951805456024577.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395c1"
+        "$oid": "6410479f3902e923fb0f1fde"
     },
     "PLAYER_NAME": "RUTURAJ GAIKWAD",
     "NATIONALITY": "INDIAN",
@@ -402,10 +428,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171232/shimron-hetmyer.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395c2"
+        "$oid": "6410479f3902e923fb0f1fdf"
     },
     "PLAYER_NAME": "SURYAKUMAR YADAV",
     "NATIONALITY": "INDIAN",
@@ -417,10 +444,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4.5"
+    "RATING": "4.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244979/suryakumar-yadav.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395c3"
+        "$oid": "6410479f3902e923fb0f1fe0"
     },
     "PLAYER_NAME": "RAHUL TRIPATHI",
     "NATIONALITY": "INDIAN",
@@ -432,10 +460,11 @@ export const players = [{
     "BOL_ECO": "12",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226470/rahul-tripathi.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395c4"
+        "$oid": "6410479f3902e923fb0f1fe1"
     },
     "PLAYER_NAME": "ABDUL SAMAD",
     "NATIONALITY": "INDIAN",
@@ -447,10 +476,11 @@ export const players = [{
     "BOL_ECO": "12.56",
     "BOL_AVG": "56.5",
     "TOTAL_WICKET": "2",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226276/abdul-samad.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395c5"
+        "$oid": "6410479f3902e923fb0f1fe2"
     },
     "PLAYER_NAME": "MANDEEP SINGH",
     "NATIONALITY": "INDIAN",
@@ -462,10 +492,11 @@ export const players = [{
     "BOL_ECO": "13",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "8",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171093/mandeep-singh.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395c6"
+        "$oid": "6410479f3902e923fb0f1fe3"
     },
     "PLAYER_NAME": "AJINKYA RAHANE",
     "NATIONALITY": "INDIAN",
@@ -477,10 +508,11 @@ export const players = [{
     "BOL_ECO": "5",
     "BOL_AVG": "5",
     "TOTAL_WICKET": "1",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171082/ajinkya-rahane.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395c7"
+        "$oid": "6410479f3902e923fb0f1fe4"
     },
     "PLAYER_NAME": "KARUN NAIR",
     "NATIONALITY": "INDIAN",
@@ -492,10 +524,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152760/karun-nair.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395c8"
+        "$oid": "6410479f3902e923fb0f1fe5"
     },
     "PLAYER_NAME": "SHUBMAN GILL",
     "NATIONALITY": "INDIAN",
@@ -507,10 +540,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4.5"
+    "RATING": "4.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171042/shubman-gill.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395c9"
+        "$oid": "6410479f3902e923fb0f1fe6"
     },
     "PLAYER_NAME": "LUNGI NGIDI",
     "NATIONALITY": "OVERSEAS",
@@ -522,10 +556,11 @@ export const players = [{
     "BOL_ECO": "8.3",
     "BOL_AVG": "17.62",
     "TOTAL_WICKET": "25",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244772/lungi-ngidi.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395ca"
+        "$oid": "6410479f3902e923fb0f1fe7"
     },
     "PLAYER_NAME": "MANAN VOHRA",
     "NATIONALITY": "INDIAN",
@@ -537,10 +572,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226514/manan-vohra.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395cb"
+        "$oid": "6410479f3902e923fb0f1fe8"
     },
     "PLAYER_NAME": "HARI NISHAANTH",
     "NATIONALITY": "INDIAN",
@@ -552,10 +588,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226549/hari-nishanth.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395cc"
+        "$oid": "6410479f3902e923fb0f1fe9"
     },
     "PLAYER_NAME": "FINN ALLEN",
     "NATIONALITY": "OVERSEAS",
@@ -567,10 +604,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244814/finn-allen.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395cd"
+        "$oid": "6410479f3902e923fb0f1fea"
     },
     "PLAYER_NAME": "RINKU SINGH",
     "NATIONALITY": "INDIAN",
@@ -582,10 +620,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c187877/rinku-singh.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395ce"
+        "$oid": "6410479f3902e923fb0f1feb"
     },
     "PLAYER_NAME": "DEVON CONWAY",
     "NATIONALITY": "OVERSEAS",
@@ -597,10 +636,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244818/devon-conway.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395cf"
+        "$oid": "6410479f3902e923fb0f1fec"
     },
     "PLAYER_NAME": "YASHASVI JAISWAL",
     "NATIONALITY": "INDIAN",
@@ -612,10 +652,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226279/yashasvi-jaiswal.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395d0"
+        "$oid": "6410479f3902e923fb0f1fed"
     },
     "PLAYER_NAME": "ALEX HALES",
     "NATIONALITY": "OVERSEAS",
@@ -627,10 +668,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244785/alex-hales.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395d1"
+        "$oid": "6410479f3902e923fb0f1fee"
     },
     "PLAYER_NAME": "PRIYAM GARG",
     "NATIONALITY": "INDIAN",
@@ -642,10 +684,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226310/priyam-garg.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395d2"
+        "$oid": "6410479f3902e923fb0f1fef"
     },
     "PLAYER_NAME": "ABHIJJEET TOMAR",
     "NATIONALITY": "INDIAN",
@@ -657,10 +700,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/341000/341044.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395d3"
+        "$oid": "6410479f3902e923fb0f1ff0"
     },
     "PLAYER_NAME": "DEWALD BREVIS",
     "NATIONALITY": "OVERSEAS",
@@ -672,10 +716,11 @@ export const players = [{
     "BOL_ECO": "16",
     "BOL_AVG": "8",
     "TOTAL_WICKET": "1",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226302/dewald-brevis.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395d4"
+        "$oid": "6410479f3902e923fb0f1ff1"
     },
     "PLAYER_NAME": "PRITHVI SHAW",
     "NATIONALITY": "INDIAN",
@@ -687,10 +732,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171030/prithvi-shaw.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395d5"
+        "$oid": "6410479f3902e923fb0f1ff2"
     },
     "PLAYER_NAME": "RAVIKUMAR SAMARTH",
     "NATIONALITY": "INDIAN",
@@ -702,10 +748,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/165900/165901.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395d6"
+        "$oid": "6410479f3902e923fb0f1ff3"
     },
     "PLAYER_NAME": "ROBIN UTHAPPA",
     "NATIONALITY": "INDIAN",
@@ -717,10 +764,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c153928/robin-uthappa.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395d7"
+        "$oid": "6410479f3902e923fb0f1ff4"
     },
     "PLAYER_NAME": "ANMOLPREET SINGH",
     "NATIONALITY": "INDIAN",
@@ -732,10 +780,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c179867/anmolpreet-singh.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395d8"
+        "$oid": "6410479f3902e923fb0f1ff5"
     },
     "PLAYER_NAME": "KANE WILLIAMSON",
     "NATIONALITY": "OVERSEAS",
@@ -747,10 +796,11 @@ export const players = [{
     "BOL_ECO": "10.33",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244826/kane-williamson.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395d9"
+        "$oid": "6410479f3902e923fb0f1ff6"
     },
     "PLAYER_NAME": "ROVMAN POWELL",
     "NATIONALITY": "OVERSEAS",
@@ -762,10 +812,11 @@ export const players = [{
     "BOL_ECO": "17",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244832/rovman-powell.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395da"
+        "$oid": "6410479f3902e923fb0f1ff7"
     },
     "PLAYER_NAME": "JASON ROY",
     "NATIONALITY": "OVERSEAS",
@@ -777,10 +828,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170941/jason-roy.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395db"
+        "$oid": "6410479f3902e923fb0f1ff8"
     },
     "PLAYER_NAME": "RASSIE VAN DER DUSSEN",
     "NATIONALITY": "OVERSEAS",
@@ -792,10 +844,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170691/rassie-van-der-dussen.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395dc"
+        "$oid": "6410479f3902e923fb0f1ff9"
     },
     "PLAYER_NAME": "BHANUKA RAJAPAKSA",
     "NATIONALITY": "OVERSEAS",
@@ -807,10 +860,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244846/bhanuka-rajapaksa.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395dd"
+        "$oid": "6410479f3902e923fb0f1ffa"
     },
     "PLAYER_NAME": "AIDEN MARKRAM",
     "NATIONALITY": "OVERSEAS",
@@ -822,10 +876,11 @@ export const players = [{
     "BOL_ECO": "8.7",
     "BOL_AVG": "87",
     "TOTAL_WICKET": "1",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244757/aiden-markram.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395de"
+        "$oid": "6410479f3902e923fb0f1ffb"
     },
     "PLAYER_NAME": "DEVDUTT PADIKKAL",
     "NATIONALITY": "INDIAN",
@@ -837,10 +892,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c195763/devdutt-padikkal.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395df"
+        "$oid": "6410479f3902e923fb0f1ffc"
     },
     "PLAYER_NAME": "ARYAN JUYAL",
     "NATIONALITY": "INDIAN",
@@ -852,10 +908,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156041/aryan-juyal.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395e0"
+        "$oid": "6410479f3902e923fb0f1ffd"
     },
     "PLAYER_NAME": "DINESH KARTHIK",
     "NATIONALITY": "INDIAN",
@@ -867,10 +924,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4.5"
+    "RATING": "4.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244969/dinesh-karthik.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395e1"
+        "$oid": "6410479f3902e923fb0f1ffe"
     },
     "PLAYER_NAME": "MATTHEW WADE",
     "NATIONALITY": "OVERSEAS",
@@ -882,10 +940,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244799/matthew-wade.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395e2"
+        "$oid": "6410479f3902e923fb0f1fff"
     },
     "PLAYER_NAME": "DHRUV JUREL",
     "NATIONALITY": "INDIAN",
@@ -897,10 +956,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226551/dhruv-jurel.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395e3"
+        "$oid": "6410479f3902e923fb0f2000"
     },
     "PLAYER_NAME": "VISHNU VINOD",
     "NATIONALITY": "INDIAN",
@@ -912,10 +972,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://cricket.upcomingwiki.com/public/images/gallery/67983.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395e4"
+        "$oid": "6410479f3902e923fb0f2001"
     },
     "PLAYER_NAME": "BABA INDRAJITH",
     "NATIONALITY": "INDIAN",
@@ -927,10 +988,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226621/baba-indrajith.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395e5"
+        "$oid": "6410479f3902e923fb0f2002"
     },
     "PLAYER_NAME": "TIM SEIFERT",
     "NATIONALITY": "OVERSEAS",
@@ -942,10 +1004,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154935/tim-seifert.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395e6"
+        "$oid": "6410479f3902e923fb0f2003"
     },
     "PLAYER_NAME": "NARAYAN JAGADEESAN",
     "NATIONALITY": "INDIAN",
@@ -957,10 +1020,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/339100/339153.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395e7"
+        "$oid": "6410479f3902e923fb0f2004"
     },
     "PLAYER_NAME": "AMBATI RAYUDU",
     "NATIONALITY": "INDIAN",
@@ -972,10 +1036,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171012/ambati-rayudu.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395e8"
+        "$oid": "6410479f3902e923fb0f2005"
     },
     "PLAYER_NAME": "PRABHSIMRAN SINGH",
     "NATIONALITY": "INDIAN",
@@ -987,10 +1052,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226515/prabhsimran-singh.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395e9"
+        "$oid": "6410479f3902e923fb0f2006"
     },
     "PLAYER_NAME": "ISHAN KISHAN",
     "NATIONALITY": "INDIAN",
@@ -1002,10 +1068,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226219/ishan-kishan.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395ea"
+        "$oid": "6410479f3902e923fb0f2007"
     },
     "PLAYER_NAME": "NICHOLAS POORAN",
     "NATIONALITY": "OVERSEAS",
@@ -1017,25 +1084,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244722/nicholas-pooran.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395eb"
-    },
-    "PLAYER_NAME": "LUVNITH SISODIA",
-    "NATIONALITY": "INDIAN",
-    "TYPE": "WICKET KEEPER",
-    "BASE_PRICE": "20 Lakh",
-    "BAT_SR": "0",
-    "BAT_AVG": "0",
-    "TOTAL_RUNS": "0",
-    "BOL_ECO": "0",
-    "BOL_AVG": "0",
-    "TOTAL_WICKET": "0",
-    "RATING": "2.5"
-}, {
-    "_id": {
-        "$oid": "641022424200cb82796395ec"
+        "$oid": "6410479f3902e923fb0f2008"
     },
     "PLAYER_NAME": "QUINTON DE KOCK",
     "NATIONALITY": "OVERSEAS",
@@ -1047,10 +1100,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4.5"
+    "RATING": "4.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244766/quinton-de-kock.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395ed"
+        "$oid": "6410479f3902e923fb0f2009"
     },
     "PLAYER_NAME": "KL RAHUL",
     "NATIONALITY": "INDIAN",
@@ -1062,10 +1116,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4.5"
+    "RATING": "4.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244975/kl-rahul.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395ee"
+        "$oid": "6410479f3902e923fb0f200a"
     },
     "PLAYER_NAME": "SRIKAR BHARAT",
     "NATIONALITY": "INDIAN",
@@ -1077,10 +1132,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226437/srikar-bharat.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395ef"
+        "$oid": "6410479f3902e923fb0f200b"
     },
     "PLAYER_NAME": "GLENN PHILLIPS",
     "NATIONALITY": "OVERSEAS",
@@ -1092,10 +1148,11 @@ export const players = [{
     "BOL_ECO": "10",
     "BOL_AVG": "20",
     "TOTAL_WICKET": "1",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244817/glenn-phillips.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395f0"
+        "$oid": "6410479f3902e923fb0f200c"
     },
     "PLAYER_NAME": "ANUJ RAWAT",
     "NATIONALITY": "INDIAN",
@@ -1107,10 +1164,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226472/anuj-rawat.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395f1"
+        "$oid": "6410479f3902e923fb0f200d"
     },
     "PLAYER_NAME": "RISHABH PANT",
     "NATIONALITY": "INDIAN",
@@ -1122,10 +1180,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4.5"
+    "RATING": "4.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244978/rishabh-pant.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395f2"
+        "$oid": "6410479f3902e923fb0f200e"
     },
     "PLAYER_NAME": "SAM BILLINGS",
     "NATIONALITY": "OVERSEAS",
@@ -1137,10 +1196,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156173/sam-billings.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395f3"
+        "$oid": "6410479f3902e923fb0f200f"
     },
     "PLAYER_NAME": "SANJU SAMSON",
     "NATIONALITY": "INDIAN",
@@ -1152,10 +1212,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226289/sanju-samson.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395f4"
+        "$oid": "6410479f3902e923fb0f2010"
     },
     "PLAYER_NAME": "JOS BUTTLER",
     "NATIONALITY": "OVERSEAS",
@@ -1167,10 +1228,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4.5"
+    "RATING": "4.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244800/jos-buttler.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395f5"
+        "$oid": "6410479f3902e923fb0f2011"
     },
     "PLAYER_NAME": "JONNY BAIRSTOW",
     "NATIONALITY": "OVERSEAS",
@@ -1182,10 +1244,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170976/jonny-bairstow.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395f6"
+        "$oid": "6410479f3902e923fb0f2012"
     },
     "PLAYER_NAME": "SHELDON JACKSON",
     "NATIONALITY": "INDIAN",
@@ -1197,10 +1260,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c169694/sheldon-jackson.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395f7"
+        "$oid": "6410479f3902e923fb0f2013"
     },
     "PLAYER_NAME": "WRIDDHIMAN SAHA",
     "NATIONALITY": "INDIAN",
@@ -1212,10 +1276,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171058/wriddhiman-saha.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395f8"
+        "$oid": "6410479f3902e923fb0f2014"
     },
     "PLAYER_NAME": "JITESH SHARMA",
     "NATIONALITY": "INDIAN",
@@ -1227,25 +1292,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226474/jitesh-sharma.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395f9"
-    },
-    "PLAYER_NAME": "ATHARVA TAIDE",
-    "NATIONALITY": "INDIAN",
-    "TYPE": "ALL ROUNDER",
-    "BASE_PRICE": "20 Lakh",
-    "BAT_SR": "0",
-    "BAT_AVG": "0",
-    "TOTAL_RUNS": "0",
-    "BOL_ECO": "0",
-    "BOL_AVG": "0",
-    "TOTAL_WICKET": "0",
-    "RATING": "2.5"
-}, {
-    "_id": {
-        "$oid": "641022424200cb82796395fa"
+        "$oid": "6410479f3902e923fb0f2015"
     },
     "PLAYER_NAME": "LIAM LIVINGSTONE",
     "NATIONALITY": "OVERSEAS",
@@ -1257,10 +1308,11 @@ export const players = [{
     "BOL_ECO": "8.96",
     "BOL_AVG": "35.83",
     "TOTAL_WICKET": "6",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244797/liam-livingstone.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395fb"
+        "$oid": "6410479f3902e923fb0f2016"
     },
     "PLAYER_NAME": "DAVID WILLEY",
     "NATIONALITY": "OVERSEAS",
@@ -1272,10 +1324,11 @@ export const players = [{
     "BOL_ECO": "7.95",
     "BOL_AVG": "55.67",
     "TOTAL_WICKET": "3",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244795/david-willey.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395fc"
+        "$oid": "6410479f3902e923fb0f2017"
     },
     "PLAYER_NAME": "HRITHIK SHOKEEN",
     "NATIONALITY": "INDIAN",
@@ -1287,10 +1340,11 @@ export const players = [{
     "BOL_ECO": "8.46",
     "BOL_AVG": "63.5",
     "TOTAL_WICKET": "2",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://hindi.mykhel.com/thumb/247x100x233/cricket/players/6/15546.1671618287.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395fd"
+        "$oid": "6410479f3902e923fb0f2018"
     },
     "PLAYER_NAME": "KYLE MAYERS",
     "NATIONALITY": "OVERSEAS",
@@ -1302,10 +1356,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244721/kyle-mayers.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395fe"
+        "$oid": "6410479f3902e923fb0f2019"
     },
     "PLAYER_NAME": "DARSHAN NALKANDE",
     "NATIONALITY": "INDIAN",
@@ -1317,10 +1372,11 @@ export const players = [{
     "BOL_ECO": "11.42",
     "BOL_AVG": "29.5",
     "TOTAL_WICKET": "2",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/67489.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb82796395ff"
+        "$oid": "6410479f3902e923fb0f201a"
     },
     "PLAYER_NAME": "PRAVIN DUBEY",
     "NATIONALITY": "INDIAN",
@@ -1332,10 +1388,11 @@ export const players = [{
     "BOL_ECO": "9",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c195872/praveen-dubey.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639600"
+        "$oid": "6410479f3902e923fb0f201b"
     },
     "PLAYER_NAME": "ANUKUL ROY",
     "NATIONALITY": "INDIAN",
@@ -1347,10 +1404,11 @@ export const players = [{
     "BOL_ECO": "7.33",
     "BOL_AVG": "33",
     "TOTAL_WICKET": "2",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c153915/anukul-roy.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639601"
+        "$oid": "6410479f3902e923fb0f201c"
     },
     "PLAYER_NAME": "VICKY OSTWAL",
     "NATIONALITY": "INDIAN",
@@ -1362,10 +1420,11 @@ export const players = [{
     "BOL_ECO": "8.67",
     "BOL_AVG": "38.22",
     "TOTAL_WICKET": "9",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226291/vicky-ostwal.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639602"
+        "$oid": "6410479f3902e923fb0f201d"
     },
     "PLAYER_NAME": "JASON HOLDER",
     "NATIONALITY": "OVERSEAS",
@@ -1377,10 +1436,11 @@ export const players = [{
     "BOL_ECO": "7.63",
     "BOL_AVG": "24.02",
     "TOTAL_WICKET": "49",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244677/jason-holder.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639603"
+        "$oid": "6410479f3902e923fb0f201e"
     },
     "PLAYER_NAME": "NITISH RANA",
     "NATIONALITY": "INDIAN",
@@ -1392,10 +1452,11 @@ export const players = [{
     "BOL_ECO": "8.36",
     "BOL_AVG": "25.3",
     "TOTAL_WICKET": "7",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171047/nitish-rana.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639604"
+        "$oid": "6410479f3902e923fb0f201f"
     },
     "PLAYER_NAME": "TIM DAVID",
     "NATIONALITY": "OVERSEAS",
@@ -1407,10 +1468,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244810/tim-david.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639605"
+        "$oid": "6410479f3902e923fb0f2020"
     },
     "PLAYER_NAME": "BENNY HOWELL",
     "NATIONALITY": "OVERSEAS",
@@ -1422,10 +1484,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226305/benny-howell.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639606"
+        "$oid": "6410479f3902e923fb0f2021"
     },
     "PLAYER_NAME": "GLENN MAXWELL",
     "NATIONALITY": "OVERSEAS",
@@ -1437,10 +1500,11 @@ export const players = [{
     "BOL_ECO": "8.24",
     "BOL_AVG": "38.57",
     "TOTAL_WICKET": "28",
-    "RATING": "4.5"
+    "RATING": "4.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244786/glenn-maxwell.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639607"
+        "$oid": "6410479f3902e923fb0f2022"
     },
     "PLAYER_NAME": "WASHINGTON SUNDAR",
     "NATIONALITY": "INDIAN",
@@ -1452,10 +1516,11 @@ export const players = [{
     "BOL_ECO": "7.23",
     "BOL_AVG": "33.52",
     "TOTAL_WICKET": "33",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171035/washington-sundar.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639608"
+        "$oid": "6410479f3902e923fb0f2023"
     },
     "PLAYER_NAME": "WANINDU HARSARANDA",
     "NATIONALITY": "OVERSEAS",
@@ -1467,10 +1532,11 @@ export const players = [{
     "BOL_ECO": "7.78",
     "BOL_AVG": "18.85",
     "TOTAL_WICKET": "26",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244676/wanindu-hasaranga.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639609"
+        "$oid": "6410479f3902e923fb0f2024"
     },
     "PLAYER_NAME": "PAT CUMMINS",
     "NATIONALITY": "OVERSEAS",
@@ -1482,10 +1548,11 @@ export const players = [{
     "BOL_ECO": "8.54",
     "BOL_AVG": "30.1",
     "TOTAL_WICKET": "45",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244803/pat-cummins.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963960a"
+        "$oid": "6410479f3902e923fb0f2025"
     },
     "PLAYER_NAME": "FABIAN ALLEN",
     "NATIONALITY": "OVERSEAS",
@@ -1497,10 +1564,11 @@ export const players = [{
     "BOL_ECO": "9.07",
     "BOL_AVG": "68",
     "TOTAL_WICKET": "2",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170794/fabian-allen.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963960b"
+        "$oid": "6410479f3902e923fb0f2026"
     },
     "PLAYER_NAME": "ABHISHEK SHARMA",
     "NATIONALITY": "INDIAN",
@@ -1512,10 +1580,11 @@ export const players = [{
     "BOL_ECO": "8.23",
     "BOL_AVG": "30.57",
     "TOTAL_WICKET": "7",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c153963/abhishek-sharma.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963960c"
+        "$oid": "6410479f3902e923fb0f2027"
     },
     "PLAYER_NAME": "RAJVARSHAN HANGARGEKAR",
     "NATIONALITY": "INDIAN",
@@ -1527,10 +1596,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226294/rajvardhan-hangargekar.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963960d"
+        "$oid": "6410479f3902e923fb0f2028"
     },
     "PLAYER_NAME": "MOEEN ALI",
     "NATIONALITY": "OVERSEAS",
@@ -1542,10 +1612,11 @@ export const players = [{
     "BOL_ECO": "6.79",
     "BOL_AVG": "26.12",
     "TOTAL_WICKET": "24",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244796/moeen-ali.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963960e"
+        "$oid": "6410479f3902e923fb0f2029"
     },
     "PLAYER_NAME": "SHIVAM DUBE",
     "NATIONALITY": "INDIAN",
@@ -1557,10 +1628,11 @@ export const players = [{
     "BOL_ECO": "9.39",
     "BOL_AVG": "26",
     "TOTAL_WICKET": "4",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c183291/shivam-dube.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963960f"
+        "$oid": "6410479f3902e923fb0f202a"
     },
     "PLAYER_NAME": "SARFARAZ KHAN",
     "NATIONALITY": "INDIAN",
@@ -1572,10 +1644,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c153421/sarfaraz-khan.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639610"
+        "$oid": "6410479f3902e923fb0f202b"
     },
     "PLAYER_NAME": "MARCO JANSEN",
     "NATIONALITY": "OVERSEAS",
@@ -1587,10 +1660,11 @@ export const players = [{
     "BOL_ECO": "8.39",
     "BOL_AVG": "35.44",
     "TOTAL_WICKET": "9",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244774/marco-jansen.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639611"
+        "$oid": "6410479f3902e923fb0f202c"
     },
     "PLAYER_NAME": "AXAR PATEL",
     "NATIONALITY": "INDIAN",
@@ -1602,10 +1676,11 @@ export const players = [{
     "BOL_ECO": "7.25",
     "BOL_AVG": "30.52",
     "TOTAL_WICKET": "101",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244972/axar-patel.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639612"
+        "$oid": "6410479f3902e923fb0f202d"
     },
     "PLAYER_NAME": "PRADEEP SANGWAN",
     "NATIONALITY": "INDIAN",
@@ -1617,25 +1692,11 @@ export const players = [{
     "BOL_ECO": "8.69",
     "BOL_AVG": "32.63",
     "TOTAL_WICKET": "38",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c153373/pradeep-sangwan.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639613"
-    },
-    "PLAYER_NAME": "WRITTICK CHATTERJEE",
-    "NATIONALITY": "INDIAN",
-    "TYPE": "ALL ROUNDER",
-    "BASE_PRICE": "20 Lakh",
-    "BAT_SR": "0",
-    "BAT_AVG": "0",
-    "TOTAL_RUNS": "0",
-    "BOL_ECO": "0",
-    "BOL_AVG": "0",
-    "TOTAL_WICKET": "0",
-    "RATING": "2.5"
-}, {
-    "_id": {
-        "$oid": "641022424200cb8279639614"
+        "$oid": "6410479f3902e923fb0f202e"
     },
     "PLAYER_NAME": "ARSHAD KHAN",
     "NATIONALITY": "INDIAN",
@@ -1647,10 +1708,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155818/arshad-khan.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639615"
+        "$oid": "6410479f3902e923fb0f202f"
     },
     "PLAYER_NAME": "DEEPAK HOODA",
     "NATIONALITY": "INDIAN",
@@ -1662,10 +1724,11 @@ export const players = [{
     "BOL_ECO": "8.61",
     "BOL_AVG": "50.1",
     "TOTAL_WICKET": "10",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244970/deepak-hooda.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639616"
+        "$oid": "6410479f3902e923fb0f2030"
     },
     "PLAYER_NAME": "SHERFANE RUTHERFORD",
     "NATIONALITY": "OVERSEAS",
@@ -1677,10 +1740,11 @@ export const players = [{
     "BOL_ECO": "8.63",
     "BOL_AVG": "59",
     "TOTAL_WICKET": "1",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226373/sherfane-rutherford.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639617"
+        "$oid": "6410479f3902e923fb0f2031"
     },
     "PLAYER_NAME": "JAYANT YADAV",
     "NATIONALITY": "INDIAN",
@@ -1692,25 +1756,11 @@ export const players = [{
     "BOL_ECO": "6.87",
     "BOL_AVG": "52.38",
     "TOTAL_WICKET": "8",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226388/jayant-yadav.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639618"
-    },
-    "PLAYER_NAME": "ANSH PATEL",
-    "NATIONALITY": "INDIAN",
-    "TYPE": "ALL ROUNDER",
-    "BASE_PRICE": "20 Lakh",
-    "BAT_SR": "0",
-    "BAT_AVG": "0",
-    "TOTAL_RUNS": "0",
-    "BOL_ECO": "0",
-    "BOL_AVG": "0",
-    "TOTAL_WICKET": "0",
-    "RATING": "2.5"
-}, {
-    "_id": {
-        "$oid": "641022424200cb8279639619"
+        "$oid": "6410479f3902e923fb0f2032"
     },
     "PLAYER_NAME": "CHAMIKA KARUNARATNE",
     "NATIONALITY": "OVERSEAS",
@@ -1722,10 +1772,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244659/chamika-karunaratne.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963961a"
+        "$oid": "6410479f3902e923fb0f2033"
     },
     "PLAYER_NAME": "VENKATESH IYER",
     "NATIONALITY": "INDIAN",
@@ -1737,25 +1788,11 @@ export const players = [{
     "BOL_ECO": "9.2",
     "BOL_AVG": "38.33",
     "TOTAL_WICKET": "3",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226278/venkatesh-iyer.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963961b"
-    },
-    "PLAYER_NAME": "SANJAY YADAV",
-    "NATIONALITY": "INDIAN",
-    "TYPE": "ALL ROUNDER",
-    "BASE_PRICE": "20 Lakh",
-    "BAT_SR": "0",
-    "BAT_AVG": "0",
-    "TOTAL_RUNS": "0",
-    "BOL_ECO": "11.5",
-    "BOL_AVG": "0",
-    "TOTAL_WICKET": "0",
-    "RATING": "3.5"
-}, {
-    "_id": {
-        "$oid": "641022424200cb827963961c"
+        "$oid": "6410479f3902e923fb0f2034"
     },
     "PLAYER_NAME": "ODEAN SMITH",
     "NATIONALITY": "OVERSEAS",
@@ -1767,10 +1804,11 @@ export const players = [{
     "BOL_ECO": "11.87",
     "BOL_AVG": "29.67",
     "TOTAL_WICKET": "6",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244724/odean-smith.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963961d"
+        "$oid": "6410479f3902e923fb0f2035"
     },
     "PLAYER_NAME": "PRERAK MANKAD",
     "NATIONALITY": "INDIAN",
@@ -1782,10 +1820,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c169684/prerak-mankad.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963961e"
+        "$oid": "6410479f3902e923fb0f2036"
     },
     "PLAYER_NAME": "KARAN SHARMA",
     "NATIONALITY": "INDIAN",
@@ -1800,7 +1839,7 @@ export const players = [{
     "RATING": "3"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963961f"
+        "$oid": "6410479f3902e923fb0f2037"
     },
     "PLAYER_NAME": "RAMANDEEP SINGH",
     "NATIONALITY": "INDIAN",
@@ -1815,7 +1854,7 @@ export const players = [{
     "RATING": "2.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639620"
+        "$oid": "6410479f3902e923fb0f2038"
     },
     "PLAYER_NAME": "CHRIS JORDAN",
     "NATIONALITY": "OVERSEAS",
@@ -1827,10 +1866,11 @@ export const players = [{
     "BOL_ECO": "9.32",
     "BOL_AVG": "30.9",
     "TOTAL_WICKET": "27",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/chris-jordan-1573.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639621"
+        "$oid": "6410479f3902e923fb0f2039"
     },
     "PLAYER_NAME": "LALIT YADAV",
     "NATIONALITY": "INDIAN",
@@ -1842,10 +1882,11 @@ export const players = [{
     "BOL_ECO": "7.84",
     "BOL_AVG": "31.38",
     "TOTAL_WICKET": "8",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226516/lalit-yadav.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639622"
+        "$oid": "6410479f3902e923fb0f203a"
     },
     "PLAYER_NAME": "KRUNAL PANDYA",
     "NATIONALITY": "INDIAN",
@@ -1857,10 +1898,11 @@ export const players = [{
     "BOL_ECO": "7.63",
     "BOL_AVG": "33.41",
     "TOTAL_WICKET": "61",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171069/krunal-pandya.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639623"
+        "$oid": "6410479f3902e923fb0f203b"
     },
     "PLAYER_NAME": "DARYL MITCHELL",
     "NATIONALITY": "OVERSEAS",
@@ -1872,10 +1914,11 @@ export const players = [{
     "BOL_ECO": "13.5",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244813/daryl-mitchell.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639624"
+        "$oid": "6410479f3902e923fb0f203c"
     },
     "PLAYER_NAME": "SHAHBAZ AHMED",
     "NATIONALITY": "INDIAN",
@@ -1887,10 +1930,11 @@ export const players = [{
     "BOL_ECO": "8.58",
     "BOL_AVG": "36.31",
     "TOTAL_WICKET": "13",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226473/shahbaz-ahmed.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639625"
+        "$oid": "6410479f3902e923fb0f203d"
     },
     "PLAYER_NAME": "DANIEL SAMS",
     "NATIONALITY": "OVERSEAS",
@@ -1902,10 +1946,11 @@ export const players = [{
     "BOL_ECO": "8.71",
     "BOL_AVG": "37.4",
     "TOTAL_WICKET": "14",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c180315/daniel-sams.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639626"
+        "$oid": "6410479f3902e923fb0f203e"
     },
     "PLAYER_NAME": "AMAN KHAN",
     "NATIONALITY": "INDIAN",
@@ -1920,7 +1965,7 @@ export const players = [{
     "RATING": "2.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639627"
+        "$oid": "6410479f3902e923fb0f203f"
     },
     "PLAYER_NAME": "SAI SUDHARSAN",
     "NATIONALITY": "INDIAN",
@@ -1935,7 +1980,7 @@ export const players = [{
     "RATING": "3.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639628"
+        "$oid": "6410479f3902e923fb0f2040"
     },
     "PLAYER_NAME": "JOFRA ARCHER",
     "NATIONALITY": "OVERSEAS",
@@ -1947,10 +1992,11 @@ export const players = [{
     "BOL_ECO": "7.13",
     "BOL_AVG": "21.33",
     "TOTAL_WICKET": "46",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170970/jofra-archer.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639629"
+        "$oid": "6410479f3902e923fb0f2041"
     },
     "PLAYER_NAME": "RIYAN PARAG",
     "NATIONALITY": "INDIAN",
@@ -1962,10 +2008,11 @@ export const players = [{
     "BOL_ECO": "10.7",
     "BOL_AVG": "70",
     "TOTAL_WICKET": "4",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156160/riyan-parag.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963962a"
+        "$oid": "6410479f3902e923fb0f2042"
     },
     "PLAYER_NAME": "RIPAL PATEL",
     "NATIONALITY": "INDIAN",
@@ -1977,10 +2024,11 @@ export const players = [{
     "BOL_ECO": "7.33",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226523/ripal-patel.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963962b"
+        "$oid": "6410479f3902e923fb0f2043"
     },
     "PLAYER_NAME": "RAHUL TEWATIA",
     "NATIONALITY": "INDIAN",
@@ -1992,10 +2040,11 @@ export const players = [{
     "BOL_ECO": "7.92",
     "BOL_AVG": "34.25",
     "TOTAL_WICKET": "32",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c196288/rahul-tewatia.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963962c"
+        "$oid": "6410479f3902e923fb0f2044"
     },
     "PLAYER_NAME": "ANEESHWAR GAUTAM",
     "NATIONALITY": "INDIAN",
@@ -2007,10 +2056,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226288/aneeshwar-gautam.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963962d"
+        "$oid": "6410479f3902e923fb0f2045"
     },
     "PLAYER_NAME": "KRISHNAPPA GOWTHAM",
     "NATIONALITY": "INDIAN",
@@ -2022,10 +2072,11 @@ export const players = [{
     "BOL_ECO": "8.26",
     "BOL_AVG": "36.72",
     "TOTAL_WICKET": "18",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156045/krishnappa-gowtham.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963962e"
+        "$oid": "6410479f3902e923fb0f2046"
     },
     "PLAYER_NAME": "MAHIPAL LOMROR",
     "NATIONALITY": "INDIAN",
@@ -2037,10 +2088,11 @@ export const players = [{
     "BOL_ECO": "7.67",
     "BOL_AVG": "92",
     "TOTAL_WICKET": "1",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226541/mahipal-lomror.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963962f"
+        "$oid": "6410479f3902e923fb0f2047"
     },
     "PLAYER_NAME": "AYUSH BADONI",
     "NATIONALITY": "INDIAN",
@@ -2055,7 +2107,7 @@ export const players = [{
     "RATING": "3"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639630"
+        "$oid": "6410479f3902e923fb0f2048"
     },
     "PLAYER_NAME": "HARSHAL PATEL",
     "NATIONALITY": "INDIAN",
@@ -2067,10 +2119,11 @@ export const players = [{
     "BOL_ECO": "8.4",
     "BOL_AVG": "22.87",
     "TOTAL_WICKET": "97",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244974/harshal-patel.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639631"
+        "$oid": "6410479f3902e923fb0f2049"
     },
     "PLAYER_NAME": "ARUNAY SINGH",
     "NATIONALITY": "INDIAN",
@@ -2085,7 +2138,7 @@ export const players = [{
     "RATING": "2.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639632"
+        "$oid": "6410479f3902e923fb0f204a"
     },
     "PLAYER_NAME": "ANDRE RUSSELL",
     "NATIONALITY": "OVERSEAS",
@@ -2097,10 +2150,11 @@ export const players = [{
     "BOL_ECO": "9.14",
     "BOL_AVG": "24.48",
     "TOTAL_WICKET": "89",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170821/andre-russell.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639633"
+        "$oid": "6410479f3902e923fb0f204b"
     },
     "PLAYER_NAME": "YASH DHULL",
     "NATIONALITY": "INDIAN",
@@ -2112,10 +2166,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226296/yash-dhull.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639634"
+        "$oid": "6410479f3902e923fb0f204c"
     },
     "PLAYER_NAME": "ROMARIO SHEPHERD ",
     "NATIONALITY": "OVERSEAS",
@@ -2127,10 +2182,11 @@ export const players = [{
     "BOL_ECO": "10.89",
     "BOL_AVG": "32.67",
     "TOTAL_WICKET": "3",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226370/romario-shepherd.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639635"
+        "$oid": "6410479f3902e923fb0f204d"
     },
     "PLAYER_NAME": "JAMES NEESHAM",
     "NATIONALITY": "OVERSEAS",
@@ -2142,10 +2198,11 @@ export const players = [{
     "BOL_ECO": "9.28",
     "BOL_AVG": "41.75",
     "TOTAL_WICKET": "8",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244821/james-neesham.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639636"
+        "$oid": "6410479f3902e923fb0f204e"
     },
     "PLAYER_NAME": "HARPREET BRAR",
     "NATIONALITY": "INDIAN",
@@ -2157,10 +2214,11 @@ export const players = [{
     "BOL_ECO": "7.79",
     "BOL_AVG": "41.56",
     "TOTAL_WICKET": "9",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226471/harpreet-brar.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639637"
+        "$oid": "6410479f3902e923fb0f204f"
     },
     "PLAYER_NAME": "SHAHRUKH KHAN",
     "NATIONALITY": "INDIAN",
@@ -2172,10 +2230,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226465/shahrukh-khan.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639638"
+        "$oid": "6410479f3902e923fb0f2050"
     },
     "PLAYER_NAME": "ARJUN TENDULKAR",
     "NATIONALITY": "INDIAN",
@@ -2187,10 +2246,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154048/arjun-tendulkar.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639639"
+        "$oid": "6410479f3902e923fb0f2051"
     },
     "PLAYER_NAME": "RAJ BAWA",
     "NATIONALITY": "INDIAN",
@@ -2202,10 +2262,11 @@ export const players = [{
     "BOL_ECO": "0",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226295/raj-bawa.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963963a"
+        "$oid": "6410479f3902e923fb0f2052"
     },
     "PLAYER_NAME": "DOMINIC DRAKES",
     "NATIONALITY": "OVERSEAS",
@@ -2217,10 +2278,11 @@ export const players = [{
     "BOL_ECO": "9.06",
     "BOL_AVG": "48.33",
     "TOTAL_WICKET": "6",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226329/dominic-drakes.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963963b"
+        "$oid": "6410479f3902e923fb0f2053"
     },
     "PLAYER_NAME": "MITCHELL MARSH",
     "NATIONALITY": "INDIAN",
@@ -2232,10 +2294,11 @@ export const players = [{
     "BOL_ECO": "8.01",
     "BOL_AVG": "21.75",
     "TOTAL_WICKET": "24",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316600/316612.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963963c"
+        "$oid": "6410479f3902e923fb0f2054"
     },
     "PLAYER_NAME": "BHAGATH VARMA",
     "NATIONALITY": "INDIAN",
@@ -2250,7 +2313,7 @@ export const players = [{
     "RATING": "2.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963963d"
+        "$oid": "6410479f3902e923fb0f2055"
     },
     "PLAYER_NAME": "MITCHELL SANTNER",
     "NATIONALITY": "OVERSEAS",
@@ -2262,10 +2325,11 @@ export const players = [{
     "BOL_ECO": "6.92",
     "BOL_AVG": "27.7",
     "TOTAL_WICKET": "10",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244828/mitchell-santner.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963963e"
+        "$oid": "6410479f3902e923fb0f2056"
     },
     "PLAYER_NAME": "MARCUS STOINIS",
     "NATIONALITY": "OVERSEAS",
@@ -2277,10 +2341,11 @@ export const players = [{
     "BOL_ECO": "9.61",
     "BOL_AVG": "30.82",
     "TOTAL_WICKET": "34",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244801/marcus-stoinis.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963963f"
+        "$oid": "6410479f3902e923fb0f2057"
     },
     "PLAYER_NAME": "TILAK VARMA",
     "NATIONALITY": "INDIAN",
@@ -2292,10 +2357,11 @@ export const players = [{
     "BOL_ECO": "6.5",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226525/tilak-varma.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639640"
+        "$oid": "6410479f3902e923fb0f2058"
     },
     "PLAYER_NAME": "DWAINE PRETORIUS",
     "NATIONALITY": "OVERSEAS",
@@ -2307,10 +2373,11 @@ export const players = [{
     "BOL_ECO": "10",
     "BOL_AVG": "35",
     "TOTAL_WICKET": "210",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170695/dwaine-pretorius.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639641"
+        "$oid": "6410479f3902e923fb0f2059"
     },
     "PLAYER_NAME": "SHIVAM MAVI",
     "NATIONALITY": "INDIAN",
@@ -2322,10 +2389,11 @@ export const players = [{
     "BOL_ECO": "8.7",
     "BOL_AVG": "31.4",
     "TOTAL_WICKET": "30",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155147/shivam-mavi.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639642"
+        "$oid": "6410479f3902e923fb0f205a"
     },
     "PLAYER_NAME": "VIJAY SHANKAR",
     "NATIONALITY": "INDIAN",
@@ -2337,10 +2405,11 @@ export const players = [{
     "BOL_ECO": "8.67",
     "BOL_AVG": "38.22",
     "TOTAL_WICKET": "9",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170664/vijay-shankar.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639643"
+        "$oid": "6410479f3902e923fb0f205b"
     },
     "PLAYER_NAME": "RISHI DHAWAN",
     "NATIONALITY": "INDIAN",
@@ -2352,10 +2421,11 @@ export const players = [{
     "BOL_ECO": "7.93",
     "BOL_AVG": "33.17",
     "TOTAL_WICKET": "24",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c151723/rishi-dhawan.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639644"
+        "$oid": "6410479f3902e923fb0f205c"
     },
     "PLAYER_NAME": "MOHAMMAD NABI",
     "NATIONALITY": "OVERSEAS",
@@ -2367,10 +2437,11 @@ export const players = [{
     "BOL_ECO": "7.14",
     "BOL_AVG": "31.38",
     "TOTAL_WICKET": "13",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244755/mohammad-nabi.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639645"
+        "$oid": "6410479f3902e923fb0f205d"
     },
     "PLAYER_NAME": "GURKEERAT SINGH MANN",
     "NATIONALITY": "INDIAN",
@@ -2382,10 +2453,11 @@ export const players = [{
     "BOL_ECO": "7.46",
     "BOL_AVG": "19.4",
     "TOTAL_WICKET": "5",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226548/gurkeerat-singh-mann.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639646"
+        "$oid": "6410479f3902e923fb0f205e"
     },
     "PLAYER_NAME": "KAMLESH NAGARKOTI",
     "NATIONALITY": "INDIAN",
@@ -2397,10 +2469,11 @@ export const players = [{
     "BOL_ECO": "9.5",
     "BOL_AVG": "57",
     "TOTAL_WICKET": "5",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226313/kamlesh-nagarkoti.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639647"
+        "$oid": "6410479f3902e923fb0f205f"
     },
     "PLAYER_NAME": "KIERON POLLARD",
     "NATIONALITY": "OVERSEAS",
@@ -2412,10 +2485,11 @@ export const players = [{
     "BOL_ECO": "8.79",
     "BOL_AVG": "31.59",
     "TOTAL_WICKET": "69",
-    "RATING": "4.5"
+    "RATING": "4.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226283/kieron-pollard.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639648"
+        "$oid": "6410479f3902e923fb0f2060"
     },
     "PLAYER_NAME": "SHASHANK SINGH",
     "NATIONALITY": "INDIAN",
@@ -2427,25 +2501,11 @@ export const players = [{
     "BOL_ECO": "10",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/314900/314914.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639649"
-    },
-    "PLAYER_NAME": "SHUBHAM GARHWAL",
-    "NATIONALITY": "INDIAN",
-    "TYPE": "ALL ROUNDER",
-    "BASE_PRICE": "20 Lakh",
-    "BAT_SR": "0",
-    "BAT_AVG": "0",
-    "TOTAL_RUNS": "0",
-    "BOL_ECO": "0",
-    "BOL_AVG": "0",
-    "TOTAL_WICKET": "0",
-    "RATING": "3"
-}, {
-    "_id": {
-        "$oid": "641022424200cb827963964a"
+        "$oid": "6410479f3902e923fb0f2061"
     },
     "PLAYER_NAME": "SUYASH PRABHUDESSAI",
     "NATIONALITY": "INDIAN",
@@ -2460,7 +2520,7 @@ export const players = [{
     "RATING": "2.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963964b"
+        "$oid": "6410479f3902e923fb0f2062"
     },
     "PLAYER_NAME": "RILEY MEREDITH",
     "NATIONALITY": "OVERSEAS",
@@ -2472,10 +2532,11 @@ export const players = [{
     "BOL_ECO": "9",
     "BOL_AVG": "33.8",
     "TOTAL_WICKET": "12",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155663/riley-meredith.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963964c"
+        "$oid": "6410479f3902e923fb0f2063"
     },
     "PLAYER_NAME": "OBED MCCOY",
     "NATIONALITY": "OVERSEAS",
@@ -2487,10 +2548,11 @@ export const players = [{
     "BOL_ECO": "9.17",
     "BOL_AVG": "21.55",
     "TOTAL_WICKET": "11",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244723/obed-mccoy.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963964d"
+        "$oid": "6410479f3902e923fb0f2064"
     },
     "PLAYER_NAME": "ARSHDEEP SINGH",
     "NATIONALITY": "INDIAN",
@@ -2502,10 +2564,11 @@ export const players = [{
     "BOL_ECO": "8.35",
     "BOL_AVG": "26.35",
     "TOTAL_WICKET": "40",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244971/arshdeep-singh.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963964e"
+        "$oid": "6410479f3902e923fb0f2065"
     },
     "PLAYER_NAME": "KULDEEP SEN",
     "NATIONALITY": "INDIAN",
@@ -2520,7 +2583,7 @@ export const players = [{
     "RATING": "3"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963964f"
+        "$oid": "6410479f3902e923fb0f2066"
     },
     "PLAYER_NAME": "MURUGAN ASHWIN",
     "NATIONALITY": "INDIAN",
@@ -2535,37 +2598,7 @@ export const players = [{
     "RATING": "3.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639650"
-    },
-    "PLAYER_NAME": "SAURABH DUBEY",
-    "NATIONALITY": "INDIAN",
-    "TYPE": "BOWLER",
-    "BASE_PRICE": "20 Lakh",
-    "BAT_SR": "0",
-    "BAT_AVG": "0",
-    "TOTAL_RUNS": "0",
-    "BOL_ECO": "0",
-    "BOL_AVG": "0",
-    "TOTAL_WICKET": "0",
-    "RATING": "2.5"
-}, {
-    "_id": {
-        "$oid": "641022424200cb8279639651"
-    },
-    "PLAYER_NAME": "CHAMA MILIND",
-    "NATIONALITY": "INDIAN",
-    "TYPE": "BOWLER",
-    "BASE_PRICE": "20 Lakh",
-    "BAT_SR": "0",
-    "BAT_AVG": "0",
-    "TOTAL_RUNS": "0",
-    "BOL_ECO": "0",
-    "BOL_AVG": "0",
-    "TOTAL_WICKET": "0",
-    "RATING": "2.5"
-}, {
-    "_id": {
-        "$oid": "641022424200cb8279639652"
+        "$oid": "6410479f3902e923fb0f2067"
     },
     "PLAYER_NAME": "FAZALHAQ FAROOQI",
     "NATIONALITY": "OVERSEAS",
@@ -2580,7 +2613,7 @@ export const players = [{
     "RATING": "3"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639653"
+        "$oid": "6410479f3902e923fb0f2068"
     },
     "PLAYER_NAME": "KULDEEP YADAV",
     "NATIONALITY": "INDIAN",
@@ -2595,7 +2628,7 @@ export const players = [{
     "RATING": "4"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639654"
+        "$oid": "6410479f3902e923fb0f2069"
     },
     "PLAYER_NAME": "UMRAN MALIK",
     "NATIONALITY": "INDIAN",
@@ -2607,10 +2640,11 @@ export const players = [{
     "BOL_ECO": "8.83",
     "BOL_AVG": "22.5",
     "TOTAL_WICKET": "24",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226275/umran-malik.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639655"
+        "$oid": "6410479f3902e923fb0f206a"
     },
     "PLAYER_NAME": "NATHAN ELLIS",
     "NATIONALITY": "OVERSEAS",
@@ -2625,7 +2659,7 @@ export const players = [{
     "RATING": "3.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639656"
+        "$oid": "6410479f3902e923fb0f206b"
     },
     "PLAYER_NAME": "TYMAL MILLS",
     "NATIONALITY": "OVERSEAS",
@@ -2637,10 +2671,11 @@ export const players = [{
     "BOL_ECO": "9.85",
     "BOL_AVG": "31.18",
     "TOTAL_WICKET": "11",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244811/tymal-mills.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639657"
+        "$oid": "6410479f3902e923fb0f206c"
     },
     "PLAYER_NAME": "KARTIK TYAGI",
     "NATIONALITY": "INDIAN",
@@ -2652,10 +2687,11 @@ export const players = [{
     "BOL_ECO": "9.47",
     "BOL_AVG": "40.71",
     "TOTAL_WICKET": "14",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226311/kartik-tyagi.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639658"
+        "$oid": "6410479f3902e923fb0f206d"
     },
     "PLAYER_NAME": "DEEPAK CHAHAR",
     "NATIONALITY": "INDIAN",
@@ -2667,10 +2703,11 @@ export const players = [{
     "BOL_ECO": "7.8",
     "BOL_AVG": "29.2",
     "TOTAL_WICKET": "59",
-    "RATING": "4.5"
+    "RATING": "4.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226392/deepak-chahar.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639659"
+        "$oid": "6410479f3902e923fb0f206e"
     },
     "PLAYER_NAME": "SHARDUL THAKUR",
     "NATIONALITY": "INDIAN",
@@ -2682,10 +2719,11 @@ export const players = [{
     "BOL_ECO": "9.06",
     "BOL_AVG": "28.54",
     "TOTAL_WICKET": "82",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226224/shardul-thakur.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963965a"
+        "$oid": "6410479f3902e923fb0f206f"
     },
     "PLAYER_NAME": "TUSHAR DESHPANDE",
     "NATIONALITY": "INDIAN",
@@ -2697,10 +2735,11 @@ export const players = [{
     "BOL_ECO": "10.62",
     "BOL_AVG": "63.8",
     "TOTAL_WICKET": "4",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c190903/tushar-deshpande.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963965b"
+        "$oid": "6410479f3902e923fb0f2070"
     },
     "PLAYER_NAME": "NOOR AHMAD",
     "NATIONALITY": "OVERSEAS",
@@ -2715,7 +2754,7 @@ export const players = [{
     "RATING": "2.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963965c"
+        "$oid": "6410479f3902e923fb0f2071"
     },
     "PLAYER_NAME": "CHETAN SAKARIYA",
     "NATIONALITY": "INDIAN",
@@ -2727,10 +2766,11 @@ export const players = [{
     "BOL_ECO": "8.1",
     "BOL_AVG": "30",
     "TOTAL_WICKET": "17",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c169708/chetan-sakariya.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963965d"
+        "$oid": "6410479f3902e923fb0f2072"
     },
     "PLAYER_NAME": "ISHAN POREL",
     "NATIONALITY": "INDIAN",
@@ -2745,7 +2785,7 @@ export const players = [{
     "RATING": "3"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963965e"
+        "$oid": "6410479f3902e923fb0f2073"
     },
     "PLAYER_NAME": "DUSHMANTHA CHAMEERA",
     "NATIONALITY": "OVERSEAS",
@@ -2760,7 +2800,7 @@ export const players = [{
     "RATING": "3.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963965f"
+        "$oid": "6410479f3902e923fb0f2074"
     },
     "PLAYER_NAME": "UMESH YADAV",
     "NATIONALITY": "INDIAN",
@@ -2772,10 +2812,11 @@ export const players = [{
     "BOL_ECO": "8.36",
     "BOL_AVG": "29",
     "TOTAL_WICKET": "135",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c153874/umesh-yadav.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639660"
+        "$oid": "6410479f3902e923fb0f2075"
     },
     "PLAYER_NAME": "SEAN ABBOTT",
     "NATIONALITY": "OVERSEAS",
@@ -2790,7 +2831,7 @@ export const players = [{
     "RATING": "3.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639661"
+        "$oid": "6410479f3902e923fb0f2076"
     },
     "PLAYER_NAME": "MOHSIN KHAN",
     "NATIONALITY": "INDIAN",
@@ -2805,7 +2846,7 @@ export const players = [{
     "RATING": "3"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639662"
+        "$oid": "6410479f3902e923fb0f2077"
     },
     "PLAYER_NAME": "ALZARRI JOSEPH",
     "NATIONALITY": "OVERSEAS",
@@ -2817,25 +2858,11 @@ export const players = [{
     "BOL_ECO": "9.08",
     "BOL_AVG": "27",
     "TOTAL_WICKET": "13",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244661/alzarri-joseph.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639663"
-    },
-    "PLAYER_NAME": "MAYANK YADAV",
-    "NATIONALITY": "INDIAN",
-    "TYPE": "BOWLER",
-    "BASE_PRICE": "20 Lakh",
-    "BAT_SR": "0",
-    "BAT_AVG": "0",
-    "TOTAL_RUNS": "0",
-    "BOL_ECO": "0",
-    "BOL_AVG": "0",
-    "TOTAL_WICKET": "0",
-    "RATING": "3"
-}, {
-    "_id": {
-        "$oid": "641022424200cb8279639664"
+        "$oid": "6410479f3902e923fb0f2078"
     },
     "PLAYER_NAME": "MUSTAFIZUR RAHMAN",
     "NATIONALITY": "OVERSEAS",
@@ -2847,10 +2874,11 @@ export const players = [{
     "BOL_ECO": "7.8",
     "BOL_AVG": "29.67",
     "TOTAL_WICKET": "46",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/319700/319734.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639665"
+        "$oid": "6410479f3902e923fb0f2079"
     },
     "PLAYER_NAME": "VAIBHAV ARORA",
     "NATIONALITY": "INDIAN",
@@ -2865,7 +2893,7 @@ export const players = [{
     "RATING": "2.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639666"
+        "$oid": "6410479f3902e923fb0f207a"
     },
     "PLAYER_NAME": "AKASH DEEP",
     "NATIONALITY": "INDIAN",
@@ -2880,7 +2908,7 @@ export const players = [{
     "RATING": "2.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639667"
+        "$oid": "6410479f3902e923fb0f207b"
     },
     "PLAYER_NAME": "RASIKH DAR",
     "NATIONALITY": "INDIAN",
@@ -2895,7 +2923,7 @@ export const players = [{
     "RATING": "3"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639668"
+        "$oid": "6410479f3902e923fb0f207c"
     },
     "PLAYER_NAME": "RAHUL CHAHAR",
     "NATIONALITY": "INDIAN",
@@ -2907,10 +2935,11 @@ export const players = [{
     "BOL_ECO": "7.51",
     "BOL_AVG": "25.91",
     "TOTAL_WICKET": "57",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226225/rahul-chahar.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639669"
+        "$oid": "6410479f3902e923fb0f207d"
     },
     "PLAYER_NAME": "RAVI BISHNOI",
     "NATIONALITY": "INDIAN",
@@ -2922,10 +2951,11 @@ export const players = [{
     "BOL_ECO": "7.53",
     "BOL_AVG": "28.7",
     "TOTAL_WICKET": "37",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226280/ravi-bishnoi.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963966a"
+        "$oid": "6410479f3902e923fb0f207e"
     },
     "PLAYER_NAME": "BASIL THAMPI",
     "NATIONALITY": "INDIAN",
@@ -2937,25 +2967,11 @@ export const players = [{
     "BOL_ECO": "9.74",
     "BOL_AVG": "38.5",
     "TOTAL_WICKET": "22",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226469/basil-thampi.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963966b"
-    },
-    "PLAYER_NAME": "BALTEJ SINGH",
-    "NATIONALITY": "INDIAN",
-    "TYPE": "BOWLER",
-    "BASE_PRICE": "20 Lakh",
-    "BAT_SR": "0",
-    "BAT_AVG": "0",
-    "TOTAL_RUNS": "0",
-    "BOL_ECO": "0",
-    "BOL_AVG": "0",
-    "TOTAL_WICKET": "0",
-    "RATING": "2.5"
-}, {
-    "_id": {
-        "$oid": "641022424200cb827963966c"
+        "$oid": "6410479f3902e923fb0f207f"
     },
     "PLAYER_NAME": "KM ASIF",
     "NATIONALITY": "INDIAN",
@@ -2967,10 +2983,11 @@ export const players = [{
     "BOL_ECO": "11.38",
     "BOL_AVG": "23.2",
     "TOTAL_WICKET": "4",
-    "RATING": "2.5"
+    "RATING": "2.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226409/km-asif.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963966d"
+        "$oid": "6410479f3902e923fb0f2080"
     },
     "PLAYER_NAME": "RAVISRINIVASAN SAI KISHORE",
     "NATIONALITY": "INDIAN",
@@ -2982,10 +2999,11 @@ export const players = [{
     "BOL_ECO": "7.56",
     "BOL_AVG": "20.17",
     "TOTAL_WICKET": "6",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226507/ravisrinivasan-sai-kishore.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963966e"
+        "$oid": "6410479f3902e923fb0f2081"
     },
     "PLAYER_NAME": "SIMARJEET SINGH",
     "NATIONALITY": "INDIAN",
@@ -3000,7 +3018,7 @@ export const players = [{
     "RATING": "2.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963966f"
+        "$oid": "6410479f3902e923fb0f2082"
     },
     "PLAYER_NAME": "T NATARAJAN",
     "NATIONALITY": "INDIAN",
@@ -3012,10 +3030,11 @@ export const players = [{
     "BOL_ECO": "8.65",
     "BOL_AVG": "28.79",
     "TOTAL_WICKET": "38",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c198676/t-natarajan.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639670"
+        "$oid": "6410479f3902e923fb0f2083"
     },
     "PLAYER_NAME": "MUKESH CHOUDHARY",
     "NATIONALITY": "INDIAN",
@@ -3030,7 +3049,7 @@ export const players = [{
     "RATING": "3"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639671"
+        "$oid": "6410479f3902e923fb0f2084"
     },
     "PLAYER_NAME": "YASH DAYAL",
     "NATIONALITY": "INDIAN",
@@ -3045,7 +3064,7 @@ export const players = [{
     "RATING": "2.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639672"
+        "$oid": "6410479f3902e923fb0f2085"
     },
     "PLAYER_NAME": "SHREYAS GOPAL",
     "NATIONALITY": "INDIAN",
@@ -3057,10 +3076,11 @@ export const players = [{
     "BOL_ECO": "8.1",
     "BOL_AVG": "26.14",
     "TOTAL_WICKET": "49",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226505/shreyas-gopal.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639673"
+        "$oid": "6410479f3902e923fb0f2086"
     },
     "PLAYER_NAME": "ADAM MILNE",
     "NATIONALITY": "OVERSEAS",
@@ -3072,10 +3092,11 @@ export const players = [{
     "BOL_ECO": "9.47",
     "BOL_AVG": "46.7",
     "TOTAL_WICKET": "7",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244816/adam-milne.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639674"
+        "$oid": "6410479f3902e923fb0f2087"
     },
     "PLAYER_NAME": "SIDDARTH KAUL",
     "NATIONALITY": "INDIAN",
@@ -3087,10 +3108,11 @@ export const players = [{
     "BOL_ECO": "8.63",
     "BOL_AVG": "29.98",
     "TOTAL_WICKET": "58",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c192649/siddarth-kaul.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639675"
+        "$oid": "6410479f3902e923fb0f2088"
     },
     "PLAYER_NAME": "PRASHANT SOLANKI",
     "NATIONALITY": "INDIAN",
@@ -3105,7 +3127,7 @@ export const players = [{
     "RATING": "2.5"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639676"
+        "$oid": "6410479f3902e923fb0f2089"
     },
     "PLAYER_NAME": "ANRICH NORTJE",
     "NATIONALITY": "OVERSEAS",
@@ -3117,25 +3139,11 @@ export const players = [{
     "BOL_ECO": "8.06",
     "BOL_AVG": "43",
     "TOTAL_WICKET": "21.3",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244754/anrich-nortje.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639677"
-    },
-    "PLAYER_NAME": "KULDIP YADAV",
-    "NATIONALITY": "INDIAN",
-    "TYPE": "BOWLER",
-    "BASE_PRICE": "20 Lakh",
-    "BAT_SR": "0",
-    "BAT_AVG": "0",
-    "TOTAL_RUNS": "0",
-    "BOL_ECO": "0",
-    "BOL_AVG": "0",
-    "TOTAL_WICKET": "0",
-    "RATING": "3.5"
-}, {
-    "_id": {
-        "$oid": "641022424200cb8279639678"
+        "$oid": "6410479f3902e923fb0f208a"
     },
     "PLAYER_NAME": "MOHAMMED SIRAJ",
     "NATIONALITY": "INDIAN",
@@ -3147,10 +3155,11 @@ export const players = [{
     "BOL_ECO": "8.78",
     "BOL_AVG": "33.07",
     "TOTAL_WICKET": "59",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171039/mohammed-siraj.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639679"
+        "$oid": "6410479f3902e923fb0f208b"
     },
     "PLAYER_NAME": "AVESH KHAN",
     "NATIONALITY": "INDIAN",
@@ -3162,10 +3171,11 @@ export const players = [{
     "BOL_ECO": "8.4",
     "BOL_AVG": "24.79",
     "TOTAL_WICKET": "47",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226438/avesh-khan.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963967a"
+        "$oid": "6410479f3902e923fb0f208c"
     },
     "PLAYER_NAME": "JAGADEESHA SUCHITH",
     "NATIONALITY": "INDIAN",
@@ -3177,10 +3187,11 @@ export const players = [{
     "BOL_ECO": "8.6",
     "BOL_AVG": "31.68",
     "TOTAL_WICKET": "19",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226508/jagadeesha-suchith.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963967b"
+        "$oid": "6410479f3902e923fb0f208d"
     },
     "PLAYER_NAME": "SHAHBAZ NADEEM",
     "NATIONALITY": "INDIAN",
@@ -3192,10 +3203,11 @@ export const players = [{
     "BOL_ECO": "7.56",
     "BOL_AVG": "37.17",
     "TOTAL_WICKET": "48",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226389/shahbaz-nadeem.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963967c"
+        "$oid": "6410479f3902e923fb0f208e"
     },
     "PLAYER_NAME": "PRASIDH KRISHNA",
     "NATIONALITY": "INDIAN",
@@ -3207,10 +3219,11 @@ export const players = [{
     "BOL_ECO": "8.92",
     "BOL_AVG": "34.76",
     "TOTAL_WICKET": "49",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c167341/prasidh-krishna.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963967d"
+        "$oid": "6410479f3902e923fb0f208f"
     },
     "PLAYER_NAME": "KAGISO RABADA",
     "NATIONALITY": "OVERSEAS",
@@ -3222,10 +3235,11 @@ export const players = [{
     "BOL_ECO": "8.26",
     "BOL_AVG": "19.86",
     "TOTAL_WICKET": "99",
-    "RATING": "4.5"
+    "RATING": "4.5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/kagiso-rabada_636949907034482316.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963967e"
+        "$oid": "6410479f3902e923fb0f2090"
     },
     "PLAYER_NAME": "TIM SOUTHEE",
     "NATIONALITY": "OVERSEAS",
@@ -3237,10 +3251,11 @@ export const players = [{
     "BOL_ECO": "8.53",
     "BOL_AVG": "36.96",
     "TOTAL_WICKET": "45",
-    "RATING": "4.5"
+    "RATING": "4.5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/tim-southee-1032.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963967f"
+        "$oid": "6410479f3902e923fb0f2091"
     },
     "PLAYER_NAME": "MAHEESH THEEKSHANA",
     "NATIONALITY": "OVERSEAS",
@@ -3252,10 +3267,11 @@ export const players = [{
     "BOL_ECO": "7.45",
     "BOL_AVG": "21.8",
     "TOTAL_WICKET": "12",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244668/maheesh-theekshana.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639680"
+        "$oid": "6410479f3902e923fb0f2092"
     },
     "PLAYER_NAME": "SANDEEP SHARMA",
     "NATIONALITY": "INDIAN",
@@ -3267,10 +3283,11 @@ export const players = [{
     "BOL_ECO": "7.77",
     "BOL_AVG": "26.33",
     "TOTAL_WICKET": "114",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c153909/sandeep-sharma.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639681"
+        "$oid": "6410479f3902e923fb0f2093"
     },
     "PLAYER_NAME": "VARUN AARON",
     "NATIONALITY": "INDIAN",
@@ -3282,10 +3299,11 @@ export const players = [{
     "BOL_ECO": "8.94",
     "BOL_AVG": "33.66",
     "TOTAL_WICKET": "44",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171087/varun-aaron.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639682"
+        "$oid": "6410479f3902e923fb0f2094"
     },
     "PLAYER_NAME": "VARUN CHAKRAVARTHY",
     "NATIONALITY": "INDIAN",
@@ -3297,10 +3315,11 @@ export const players = [{
     "BOL_ECO": "7.23",
     "BOL_AVG": "27.88",
     "TOTAL_WICKET": "42",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226220/varun-chakaravarthy.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639683"
+        "$oid": "6410479f3902e923fb0f2095"
     },
     "PLAYER_NAME": "JAYDEV UNADKAT",
     "NATIONALITY": "INDIAN",
@@ -3312,10 +3331,11 @@ export const players = [{
     "BOL_ECO": "8.79",
     "BOL_AVG": "30.53",
     "TOTAL_WICKET": "91",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c169793/jaydev-unadkat.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639684"
+        "$oid": "6410479f3902e923fb0f2096"
     },
     "PLAYER_NAME": "JOSH HAZELWOOD",
     "NATIONALITY": "OVERSEAS",
@@ -3327,10 +3347,11 @@ export const players = [{
     "BOL_ECO": "8.02",
     "BOL_AVG": "17.16",
     "TOTAL_WICKET": "32",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/josh-hazlewood-1040.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639685"
+        "$oid": "6410479f3902e923fb0f2097"
     },
     "PLAYER_NAME": "KC CARIAPPA",
     "NATIONALITY": "INDIAN",
@@ -3342,10 +3363,11 @@ export const players = [{
     "BOL_ECO": "9.67",
     "BOL_AVG": "43.5",
     "TOTAL_WICKET": "8",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226502/kc-cariappa.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639686"
+        "$oid": "6410479f3902e923fb0f2098"
     },
     "PLAYER_NAME": "MAYANK MARKANDE",
     "NATIONALITY": "INDIAN",
@@ -3357,25 +3379,11 @@ export const players = [{
     "BOL_ECO": "8.5",
     "BOL_AVG": "30",
     "TOTAL_WICKET": "17",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226510/mayank-markande.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639687"
-    },
-    "PLAYER_NAME": "TEJAS BAROKA",
-    "NATIONALITY": "INDIAN",
-    "TYPE": "BOWLER",
-    "BASE_PRICE": "20 Lakh",
-    "BAT_SR": "0",
-    "BAT_AVG": "0",
-    "TOTAL_RUNS": "0",
-    "BOL_ECO": "0",
-    "BOL_AVG": "0",
-    "TOTAL_WICKET": "0",
-    "RATING": "2.5"
-}, {
-    "_id": {
-        "$oid": "641022424200cb8279639688"
+        "$oid": "6410479f3902e923fb0f2099"
     },
     "PLAYER_NAME": "KARN SHARMA",
     "NATIONALITY": "INDIAN",
@@ -3387,10 +3395,11 @@ export const players = [{
     "BOL_ECO": "7.91",
     "BOL_AVG": "27.29",
     "TOTAL_WICKET": "59",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226391/karn-sharma.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb8279639689"
+        "$oid": "6410479f3902e923fb0f209a"
     },
     "PLAYER_NAME": "LOCKIE FERGUSON",
     "NATIONALITY": "OVERSEAS",
@@ -3402,10 +3411,11 @@ export const players = [{
     "BOL_ECO": "8.43",
     "BOL_AVG": "29.86",
     "TOTAL_WICKET": "36",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/lachlan-hammond-ferguson_636960283592419267.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963968a"
+        "$oid": "6410479f3902e923fb0f209b"
     },
     "PLAYER_NAME": "NATHAN COUTLER-NILE",
     "NATIONALITY": "OVERSEAS",
@@ -3417,10 +3427,11 @@ export const players = [{
     "BOL_ECO": "7.7",
     "BOL_AVG": "22.92",
     "TOTAL_WICKET": "48",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/nathan-coulter-nile-1424.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963968b"
+        "$oid": "6410479f3902e923fb0f209c"
     },
     "PLAYER_NAME": "ANKIT RAJPOOT",
     "NATIONALITY": "INDIAN",
@@ -3432,10 +3443,11 @@ export const players = [{
     "BOL_ECO": "9.23",
     "BOL_AVG": "33.92",
     "TOTAL_WICKET": "24",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226410/ankit-rajpoot.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963968c"
+        "$oid": "6410479f3902e923fb0f209d"
     },
     "PLAYER_NAME": "MARK WOOD",
     "NATIONALITY": "OVERSEAS",
@@ -3447,10 +3459,11 @@ export const players = [{
     "BOL_ECO": "12.25",
     "BOL_AVG": "0",
     "TOTAL_WICKET": "0",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/mark-andrew-wood_636949904364017670.png"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963968d"
+        "$oid": "6410479f3902e923fb0f209e"
     },
     "PLAYER_NAME": "NAVDEEP SAINI",
     "NATIONALITY": "INDIAN",
@@ -3462,10 +3475,11 @@ export const players = [{
     "BOL_ECO": "8.68",
     "BOL_AVG": "45",
     "TOTAL_WICKET": "20",
-    "RATING": "4"
+    "RATING": "4",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c226400/navdeep-saini.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963968e"
+        "$oid": "6410479f3902e923fb0f209f"
     },
     "PLAYER_NAME": "KHALEEL AHMED",
     "NATIONALITY": "INDIAN",
@@ -3477,10 +3491,11 @@ export const players = [{
     "BOL_ECO": "8.49",
     "BOL_AVG": "22.94",
     "TOTAL_WICKET": "48",
-    "RATING": "3"
+    "RATING": "3",
+    "IMAGE": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171017/khaleel-ahmed.jpg"
 }, {
     "_id": {
-        "$oid": "641022424200cb827963968f"
+        "$oid": "6410479f3902e923fb0f20a0"
     },
     "PLAYER_NAME": "JASON BEHRENDORFF",
     "NATIONALITY": "OVERSEAS",
@@ -3492,5 +3507,6 @@ export const players = [{
     "BOL_ECO": "8.68",
     "BOL_AVG": "33",
     "TOTAL_WICKET": "5",
-    "RATING": "3.5"
+    "RATING": "3.5",
+    "IMAGE": "https://s.ndtvimg.com//images/entities/120/jason-paul-behrendorff_636949908686035995.png"
 }]

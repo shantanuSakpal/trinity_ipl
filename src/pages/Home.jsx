@@ -45,10 +45,11 @@ export const Home = () => {
     return (
 
         <>
-
-            <PlayerCard key={player._id} player={player} />
-            <button onClick={getPrevPlayer} className='p-3 rounded-lg m-2 bg-slate-300  mx-auto text-xl font-bold'>Prev Player</button>
-            <button onClick={getNextPlayer} className='p-3 rounded-lg m-2 bg-slate-300  mx-auto text-xl font-bold'>Next Player</button>
+            <div className='overflow-hidden relative'>
+                <PlayerCard key={player._id} player={player} />
+                <button onClick={getPrevPlayer} className='p-3 rounded-lg m-2 bg-slate-300  mx-auto text-xl font-bold absolute left-10 bottom-5'>Prev Player</button>
+                <button onClick={getNextPlayer} className='p-3 rounded-lg m-2 bg-slate-300  mx-auto text-xl font-bold absolute right-10 bottom-5'>Next Player</button>
+            </div>
         </>
 
 
